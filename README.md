@@ -1,7 +1,7 @@
 > # *Hi there 👋 i'm arwin ghaderi* 
 
 > ## *my Activity🎯*
-<img src="https://github-readme-stats.vercel.app/api?username=arwinghaderi&show_icons=true&theme=gruvbox"/>
+`<img src="https://github-readme-stats.vercel.app/api?username=arwinghaderi&show_icons=true&theme=gruvbox"/>`
 
 > ## *my Projects Languages💻*
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinghaderi&hide_progress=true"/>
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinghaderi&hide_progress=true"/>`
