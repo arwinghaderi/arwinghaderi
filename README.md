@@ -1,4 +1,4 @@
-> ## *my profile📝*
+> ## *My Profile📝*
   ```javascript
  const gitHub = []
 > const profile = () => {
