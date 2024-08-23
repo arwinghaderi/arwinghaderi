@@ -2,7 +2,7 @@
   ```javascript
  const gitHub = []
 > const profile = () => {
-    const introduction = {
+    const specifications = {
         status: 202,
         name: "Arwin",
         lastName: "Ghaderi",
