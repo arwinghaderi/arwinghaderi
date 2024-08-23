@@ -13,7 +13,7 @@
         Expertise :"front-End developer",
         skilles: "Html css js => progressing... ",
         Explanation:"Completing the front-end road map on the way to the prototype with raw JavaScript...", 
-        location: "Kurdistan province, Saqez city"
+        location: "Kurdistan province, Saqqez city"
     }
 };
     gitHub.push(profile)
