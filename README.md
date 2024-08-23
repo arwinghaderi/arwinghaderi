@@ -1,7 +1,7 @@
 # Hi there 👋
 
-## my Activity
+## my Activity🎯
 <img src="https://github-readme-stats.vercel.app/api?username=arwinghaderi&show_icons=true&theme=gruvbox"/>
 
-## my Projects Languages
+## my Projects Languages💻
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinghaderi&hide_progress=true"/>
