@@ -1,4 +1,3 @@
-> # *Hi there 👋*
 > ## *my profile📝*
   ```javascript
  const gitHub = []
