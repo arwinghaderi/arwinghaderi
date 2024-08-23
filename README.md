@@ -1,8 +1,8 @@
 > # *Hi there 👋
   ```javascript
 > const profile = () => {
-    let gitHub = []
-    let introduction = {
+    const gitHub = []
+    const introduction = {
         status: 202,
         name: "Arwin",
         lastName: "Ghaderi",
