@@ -1,8 +1,7 @@
 <h1 align="center">❤ Hi There! I'm Arwin ghaderi ❤</h2>
  <br>
 
-<h2>📃 &nbsp; About Me</h3>
-
+## 📃&nbsp; About Me
   ```javascript
  const gitHub = [];
  const profile =  {
@@ -20,7 +19,8 @@
     gitHub.push(profile)
 ```
  <br>
-<h2>⚙️ &nbsp; Tech Stack </h2>
+ 
+ ## ⚙️&nbsp; Skills
 
 - 📋 &nbsp;Languages :
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
