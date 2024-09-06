@@ -12,7 +12,7 @@
         age: 21,
         Expertise :"front-End developer (توسعه دهنده فرانت اند)",
         skilles: "Html css js => " ...در حال پیشرفت  ",
-        Explanation:"در حال تکمیل رود مپ فرانت اند و زدن پروژه داینامیک باجاوا اسکریپت خام, 
+        Explanation:"در حال تکمیل رود مپ فرانت اند و توسعه ی  پروژه داینامیک با جاوا اسکریپت خام, 
         location: "Kurdistan province, Saqqez city"
     }
 };
