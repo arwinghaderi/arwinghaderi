@@ -10,9 +10,9 @@
         name: "Arwin",
         lastName: "Ghaderi",
         age: 21,
-        Expertise :"front-End developer",
-        skilles: "Html css js => progressing... ",
-        Explanation:"Completing the front-end road map on the way to the prototype with raw JavaScript...", 
+        Expertise :"front-End developer (توسعه دهنده فرانت اند)",
+        skilles: "Html css js => " ...در حال پیشرفت  ",
+        Explanation:"در حال تکمیل رود مپ فرانت اند و زدن پروژه داینامیک باجاوا اسکریپت خام, 
         location: "Kurdistan province, Saqqez city"
     }
 };
