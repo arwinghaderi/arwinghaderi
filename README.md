@@ -28,12 +28,12 @@
   
   >![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   >![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  >![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  >![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  >![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
   >![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  >![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📚 &nbsp;Learnin:
   
-  >!![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  >![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   >![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 - 🕓 &nbsp; Version Control :
