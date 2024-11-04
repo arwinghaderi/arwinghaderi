@@ -13,7 +13,7 @@
         age: 21 ,
         Expertise :"front-End developer (توسعه دهنده فرانت اند)",
         skilles: "Html css js =>  ...در حال پیشرفت  ",
-        Explanation:"learning React Tailwind Ts...
+        Explanation:"Learning React Tailwind Ts...
 در حال تکمیل رود مپ فرانت اند و توسعه ی  پروژه داینامیک با جاوا اسکریپت خام", 
         location: "Kurdistan province, Saqqez city"
     }
@@ -28,8 +28,14 @@
   
   >![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   >![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  >![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   >![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   >![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 📚 &nbsp;Learnin:
+  
+  >!![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  >![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 - 🕓 &nbsp; Version Control :
 
   >![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
