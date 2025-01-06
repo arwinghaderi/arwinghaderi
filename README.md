@@ -12,7 +12,7 @@
         lastName: "Ghaderi",
         age: 21 ,
         Expertise :"front-End developer (توسعه دهنده فرانت اند)",
-        skilles: "Html css js Tailwind  =>  ...در حال پیشرفت  ",
+        skilles: "Html Css Js Tailwind React Ts   =>  ...در حال پیشرفت  ",
         Explanation:"Learning React Redux Ts... and  Project development with raw JS 
 در حال تکمیل رود مپ فرانت اند و توسعه ی  پروژه داینامیک با جاوا اسکریپت خام وآموزش ری اکت تایپ اسکریپت و ریداکس + کتابخانه های جانبی  ری اکت", 
         location: "Kurdistan province, Saqqez city"
