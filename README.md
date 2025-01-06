@@ -26,15 +26,17 @@
 
 - 📋 &nbsp;Languages :
   
+  >![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   >![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   >![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   >![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
   >![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  >![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  >![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  >![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 - 📚 &nbsp;Learnin:
-  
-  >![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  >![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+  >![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 
 - 🕓 &nbsp; Version Control :
 
