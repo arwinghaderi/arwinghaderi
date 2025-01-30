@@ -60,7 +60,7 @@
 
 | Project Name   | Project Category   | Project Packages          | Project Link       |
 |----------------|--------------------|---------------------------|--------------------|
-| Furniture      | Store              | HTML, CSS, JS => Dynamic  | [Furniture](https://furniro.vercel.app) |
+| Furniture      | Store              | HTML, CSS, JS => Dynamic  | [Furniture](https://furniroo-store.vercel.app/) |
 | ProductFactory | Business website   | HTML, CSS, JS => Static   | [ProductFactory](https://arwinghaderi.github.io/ProductFactoryArwin/) |
 | Positivus      | Business website   | HTML, CSS, JS => Static   | [Positivus](https://arwinghaderi.github.io/arwin.gh.positivus/) |
 
