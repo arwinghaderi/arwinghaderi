@@ -56,7 +56,17 @@
 
 <br>
 
-## 📂 &nbsp; Projects
+## 🌐 &nbsp; My Projects
+
+| Project Name   | Project Category   | Project Packages          | Project Link       |
+|----------------|--------------------|---------------------------|--------------------|
+| Furniture      | Store              | HTML, CSS, JS => Dynamic  | [Furniture](https://your-link-here) |
+| ProductFactory | Business website   | HTML, CSS, JS => Static   | [ProductFactory](https://arwinghaderi.github.io/ProductFactoryArwin/) |
+| Positivus      | Business website   | HTML, CSS, JS => Static   | [Positivus](https://arwinghaderi.github.io/arwin.gh.positivus/) |
+
+
+<br><br>
+## 📂 &nbsp; Path and target
 ### React and Tailwind Practice Projects (پروژه‌های تمرینی با ری‌اکت و تلویند)
 - **Description:** Various practice projects using React and Tailwind CSS to improve my skills. (پروژه‌های تمرینی مختلف با استفاده از ری‌اکت و تلویند CSS برای بهبود مهارت‌هایم)
 - **Purpose:** Enhancing proficiency in React and preparing for a larger project. (افزایش تسلط در ری‌اکت و آماده‌سازی برای یک پروژه بزرگتر)
