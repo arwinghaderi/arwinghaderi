@@ -58,8 +58,6 @@
 
 ## 🌐 &nbsp; My Projects
 
-## 🌐 &nbsp; My Projects
-
 | Project Name   | Project Category   | Project Packages          | Project Link       | Repository Link             |
 |----------------|--------------------|---------------------------|--------------------|-----------------------------|
 | Furniture      | Store              | HTML, CSS, JS => Dynamic  | [Furniture](https://furniro.vercel.app) | [Repo-Furniture](https://github.com/arwinghaderi/Furniro) |
@@ -67,9 +65,7 @@
 | Positivus      | Business website   | HTML, CSS, JS => Static   | [Positivus](https://arwinghaderi.github.io/arwin.gh.positivus/) | [Repo-Positivus](https://github.com/arwinghaderi/arwin.gh.positivus) |
 
 
-
-
-<br><br>
+<br>
 ## 📂 &nbsp; Path and target
 ### React and Tailwind Practice Projects (پروژه‌های تمرینی با ری‌اکت و تلویند)
 - **Description:** Various practice projects using React and Tailwind CSS to improve my skills. (پروژه‌های تمرینی مختلف با استفاده از ری‌اکت و تلویند CSS برای بهبود مهارت‌هایم)
