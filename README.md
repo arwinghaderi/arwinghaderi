@@ -31,18 +31,19 @@
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-
-- 📚 &nbsp;Learning:
-  
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat&logo=WebSocket)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
   ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
   ![Formik](https://img.shields.io/badge/Formik-000000?style=flat&logo=formik&logoColor=white)
+
+- 📚 &nbsp;Learning:
+  
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat&logo=WebSocket)
+
 
 
 - 🕓 &nbsp; Version Control :
