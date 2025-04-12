@@ -41,7 +41,8 @@
 
 
 - 📚 &nbsp;Learning:
-  
+
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat&logo=WebSocket)
 
@@ -60,11 +61,11 @@
 
 ## 🌐 &nbsp; My Projects
 
-| Project Name   | Project Category   | Project Packages          | Project Link       | Repository Link             |
+| Project Name   | Project Category   | Project           | Project Link       | Repository Link             |
 |----------------|--------------------|---------------------------|--------------------|-----------------------------|
-| Furniture      | Store              | HTML, CSS, JS => Dynamic  | [Furniture](https://furniroo-store.vercel.app/) | [Repo-Furniture](https://github.com/arwinghaderi/Furniro) |
-| ProductFactory | Business website   | HTML, CSS, JS => Static   | [ProductFactory](https://arwinghaderi.github.io/ProductFactoryArwin/) | [Repo-ProductFactory](https://github.com/arwinghaderi/ProductFactoryArwin) |
-| Positivus      | Business website   | HTML, CSS, JS => Static   | [Positivus](https://arwinghaderi.github.io/arwin.gh.positivus/) | [Repo-Positivus](https://github.com/arwinghaderi/arwin.gh.positivus) |
+| saghfinoo      | Store              | React, Ts, Tailwind / library : Axios , react query  | [Furniture](https://github.com/arwinghaderi/Saghfinoo) | [Repo-Furniture](https://saghfinoo-vert.vercel.app/) |
+| Furniture      | Store              | HTML, CSS, JS   | [Furniture](https://furniroo-store.vercel.app/) | [Repo-Furniture](https://github.com/arwinghaderi/Furniro) |
+
 
 
 <br>
