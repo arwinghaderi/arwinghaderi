@@ -11,7 +11,7 @@
         lastName: "Ghaderi ",
         age: 21,
         Expertise: "front-End developer (توسعه دهنده فرانت اند)",
-        Explanation: "در حال تکمیل مهارت‌های ریداکس، گراف‌کیوال و وب‌سوکت هستم تا بتوانم یک پروژه بانکی قوی که طرح‌های رابط کاربری و تجربه کاربری آن آماده است را پیاده‌سازی کنم. همچنین مهارت‌های خود را در تایپ‌اسکریپت و ری اکت لایببری  فریمورک های آن بهبود می‌بخشم.",
+        Explanation: "در حال تکمیل مهارت‌های نکس ، گراف‌کیوال و وب‌سوکت هستم تا بتوانم یک پروژه سقفینو قوی که طرح‌های رابط کاربری و تجربه کاربری آن آماده است را پیاده‌سازی کنم. همچنین مهارت‌های خود را در تایپ‌اسکریپت و ری اکت لایببری  فریمورک های آن بهبود می‌بخشم.",
         skills: "Html, Css, Js, Tailwind, React, Ts   =>  ...در حال پیشرفت",
         location: "Kurdistan province, Saqqez city"
     }
@@ -61,22 +61,10 @@
 
 ## 🌐 &nbsp; My Projects
 
-| Project Name   | Project Category   | Project           | Project Link       | Repository Link             |
+| Project Name   | Project Category   | Project language          | Project Link       | Repository Link             |
 |----------------|--------------------|---------------------------|--------------------|-----------------------------|
-| saghfinoo      | Store              | React, Ts, Tailwind / library : Axios , react query  | [Furniture](https://github.com/arwinghaderi/Saghfinoo) | [Repo-Furniture](https://saghfinoo-vert.vercel.app/) |
+| saghfinoo      | Store              | React, Ts, Tailwind / library : Axios , react query  | [saghfinoo](https://github.com/arwinghaderi/Saghfinoo) | [Repo-saghfinoo](https://saghfinoo-vert.vercel.app/) |
 | Furniture      | Store              | HTML, CSS, JS   | [Furniture](https://furniroo-store.vercel.app/) | [Repo-Furniture](https://github.com/arwinghaderi/Furniro) |
-
-
-
-<br>
-## 📂 &nbsp; Path and target
-### React and Tailwind Practice Projects (پروژه‌های تمرینی با ری‌اکت و تلویند)
-- **Description:** Various practice projects using React and Tailwind CSS to improve my skills. (پروژه‌های تمرینی مختلف با استفاده از ری‌اکت و تلویند CSS برای بهبود مهارت‌هایم)
-- **Purpose:** Enhancing proficiency in React and preparing for a larger project. (افزایش تسلط در ری‌اکت و آماده‌سازی برای یک پروژه بزرگتر)
-
-### Upcoming Project: Banking Application with React (پروژه آینده: برنامه بانکی با ری‌اکت)
-- **Objective:** Developing a comprehensive banking application using React, Redux, GraphQL, and WebSocket, with a focus on TypeScript. The UI/UX design is already prepared and ready to be implemented. (توسعه یک برنامه بانکی جامع با استفاده از ری‌اکت، ریداکس، گراف‌کیوال و وب‌سوکت با تمرکز بر تایپ‌اسکریپت. طرح‌های رابط کاربری و تجربه کاربری آماده شده و آماده پیاده‌سازی است)
-- **Status:** Currently improving skills and finalizing tasks before starting the main project. (در حال حاضر در حال بهبود مهارت‌ها و نهایی‌سازی تسک‌ها قبل از شروع پروژه اصلی هستم)
 
 <br>
 
