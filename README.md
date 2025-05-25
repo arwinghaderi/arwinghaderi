@@ -64,7 +64,7 @@
 
 | Project Name   | Project Category   | Project language          | Project Link       | Repository Link             |
 |----------------|--------------------|---------------------------|--------------------|-----------------------------|
-| saghfinoo      | Store              | React, Ts, Tailwind / library : Axios , react query  | [saghfinoo](https://saghfinoo-vert.vercel.app/) | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo) |
+| saghfinoo      | Store              | React, Ts, Tailwind / library : Axios , react query  | [saghfinoo](https://saghfinoo-five.vercel.app/) | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo) |
 | Furniture      | Store              | HTML, CSS, JS   | [Furniture](https://furniroo-store.vercel.app/) | [Repo-Furniture](https://github.com/arwinghaderi/Furniro) |
 
 <br>
