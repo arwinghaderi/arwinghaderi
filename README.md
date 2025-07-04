@@ -62,10 +62,13 @@
 
 ## 🌐 &nbsp; My Projects
 
-| Project Name   | Project Category   | Project language          | Project Link       | Repository Link             |
-|----------------|--------------------|---------------------------|--------------------|-----------------------------|
-| saghfinoo      | Store              | React, Ts, Tailwind / library : Axios , react query  | [saghfinoo](https://saghfinoo-five.vercel.app/) | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo) |
-| Furniture      | Store              | HTML, CSS, JS   | [Furniture](https://furniroo-store.vercel.app/) | [Repo-Furniture](https://github.com/arwinghaderi/Furniro) |
+| Project Name    | Project Category | Project Language                          | Project Link                                                        | Repository Link                                                   |
+|-----------------|------------------|------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
+| saghfinoo       | Store            | React, TypeScript, Tailwind / Axios, React Query | [saghfinoo](https://saghfinoo-five.vercel.app/)                    | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo)      |
+| Admin Panel Redux | Admin Panel     | React, Redux | [Admin Panel](https://admin-panel-beta-peach.vercel.app/users)    | [Repo-admin-panel](https://github.com/arwinghaderi/Admin-Panel)  |
+| Furniture       | Store            | HTML, CSS, JS                           | [Furniture](https://furniroo-store.vercel.app/)                    | [Repo-Furniture](https://github.com/arwinghaderi/Furniro)        |
+
+
 
 <br>
 
