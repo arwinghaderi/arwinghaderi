@@ -12,7 +12,6 @@
         lastName: "Ghaderi ",
         age: 22,
         Expertise: "front-End developer (توسعه دهنده فرانت اند)",
-        Explanation: "در حال تکمیل مهارت‌های نکس ، گراف‌کیوال و وب‌سوکت هستم تا بتوانم یک پروژه سقفینو قوی که طرح‌های رابط کاربری و تجربه کاربری آن آماده است را پیاده‌سازی کنم. همچنین مهارت‌های خود را در تایپ‌اسکریپت و ری اکت لایببری  فریمورک های آن بهبود می‌بخشم.",
         skills: "Html, Css, Js, Tailwind, React, Ts next  =>  ...در حال پیشرفت",
         location: "Kurdistan province, Saqqez city"
     }
