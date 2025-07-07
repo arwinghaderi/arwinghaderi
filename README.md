@@ -38,6 +38,7 @@
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
   ![Formik](https://img.shields.io/badge/Formik-000000?style=flat&logo=formik&logoColor=white)
     ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+    ![sass](https://img.shields.io/badge/sass-%ffc0cb.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 
 - 📚 &nbsp;Learning:
