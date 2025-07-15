@@ -3,8 +3,7 @@
 
 ## 📃&nbsp; About Me
   ```javascript
- const gitHub =ئ [ 
-];
+ const gitHub =[ ];
  const profile =   {
     status: 202,  
     data: {
