@@ -11,7 +11,7 @@
         lastName: "Ghaderi ",
         age: 22,
         Expertise: "front-End developer (توسعه دهنده فرانت اند)",
-        skills: "Html, Css, Js, Tailwind, React, Ts next  =>  ...در حال پیشرفت",
+        skills: "Html, Css, Js, Tailwind, React, Ts next sass bootstarp   =>  ...در حال پیشرفت",
         location: "Kurdistan province, Saqqez city"
     }
 };
@@ -38,6 +38,8 @@
   ![Formik](https://img.shields.io/badge/Formik-000000?style=flat&logo=formik&logoColor=white)
     ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
     ![sass](https://img.shields.io/badge/sass-%ffc0cb.svg?style=for-the-badge&logo=sass&logoColor=white)
+  ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  
 
 
 - 📚 &nbsp;Learning:
