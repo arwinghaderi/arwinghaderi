@@ -65,8 +65,9 @@
 | Project Name    | Project Category | Project Language                          | Project Link                                                        | Repository Link                                                   |
 |-----------------|------------------|------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
 | saghfinoo       | Store            | React, TypeScript, Tailwind / Axios, React Query | [saghfinoo](https://saghfinoo-five.vercel.app/)                    | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo)      |
+| Todo-Advanc       | crm            | Next.js, TypeScript, Tailwind , React Query/hookForm/Zod | [Todo-Advanc ](todo-advanc.vercel.app)                    | [Repo-Todo-Advanc](https://github.com/arwinghaderi/Todo-Advanc)      |
 | Admin Panel Redux | Admin Panel     | React, Redux | [Admin Panel](https://admin-panel-beta-peach.vercel.app/users)    | [Repo-admin-panel](https://github.com/arwinghaderi/Admin-Panel)  |
-| Furniture       | Store            | HTML, CSS, JS                           | [Furniture](https://furniroo-store.vercel.app/)                    | [Repo-Furniture](https://github.com/arwinghaderi/Furniro)        |
+| Furniture       | Store            | HTML, CSS, JS                           | [Furniture](https://furniroo-store.vercel.app/)                    | [Repo-Furniture](https://github.com/arwinghaderi/Furniro)     |
 
 
 
