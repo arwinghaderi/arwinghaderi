@@ -26,7 +26,8 @@
 
 | Project Name    | Project Category | Project Language                          | Project Link                                                        | Repository Link                                                   |
 |-----------------|------------------|------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
-| morabiPlus       | crm            | Next,React, TypeScript, Tailwind / Axios, React Query | [morabiPlus](https://novingym.vercel.app/)                    | [Private =>Freelancer]     |
+| eplanetbrokers      rokers  |             | Next,React, TypeScript, Tailwind git | [eplanetbrokers](https://eplanetbrokers.com/en-US)                    | [Private =>Freelancer]     |
+| morabiPlus       | crm            | Next,React, TypeScript, Tailwind  git | [morabiPlus](https://novingym.vercel.app/)                    | [Private =>Freelancer]     |
 | saghfinoo       | Store            | React, TypeScript, Tailwind / Axios, React Query | [saghfinoo](https://saghfinoo-five.vercel.app/)                    | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo)      |
 | Portal       | Store            | Next,React, TypeScript, Tailwind / Axios, React Query | [Portal](https://portal-frontv3-ravi1-t4br.vercel.app/)                    | [Private =>Freelancer]      |
 | Todo-Advanc       | crm            | Next.js, TypeScript, Tailwind , React Query/hookForm/Zod | [Todo-Advanc ](todo-advanc.vercel.app)                    | [Repo-Todo-Advanc](https://github.com/arwinghaderi/Todo-Advanc)      |
