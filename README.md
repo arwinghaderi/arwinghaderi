@@ -26,6 +26,7 @@
 
 | Project Name    | Project Category | Project Language                          | Project Link                                                        | Repository Link                                                   |
 |-----------------|------------------|------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
+| revayat-cinema        |        Store      | Next,React, TypeScript, Tailwind git | [revayat-cinema](https://revayat-cinema-front.ravi1.ir/)                    | [Private =>Freelancer]     |
 | eplanetbrokers        |        brokers      | Next,React, TypeScript, Tailwind git | [eplanetbrokers](https://eplanetbrokers.com/en-US)                    | [Private =>Freelancer]     |
 | morabiPlus       | crm            | Next,React, TypeScript, Tailwind  git | [morabiPlus](https://novingym.vercel.app/)                    | [Private =>Freelancer]     |
 | saghfinoo       | Store            | React, TypeScript, Tailwind / Axios, React Query | [saghfinoo](https://saghfinoo-five.vercel.app/)                    | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo)      |
