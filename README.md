@@ -10,7 +10,7 @@
         name: "Arwin",
         lastName: "Ghaderi",
         age: 23,
-        Expertise: "front-End developer ",
+        Expertise: "front-End developer",
         skills: "Html, Css, Js, Tailwind, React, Ts Next.js sass bootstarp pwa",
         location: "Kurdistan province, Saqqez city"
     }
