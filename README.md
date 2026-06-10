@@ -6,7 +6,7 @@
  const gitHub =[];
  const profile ={
     status: 202,  
-    data: {
+    data:{
         name: "Arwin",
         lastName: "Ghaderi",
         age: 23,
