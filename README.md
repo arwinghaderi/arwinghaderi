@@ -15,7 +15,7 @@
         location: "Kurdistan province, Saqqez city"
     }
 };
-    gitHub.push(profile);
+  gitHub.push(profile);
 
 
 ```
