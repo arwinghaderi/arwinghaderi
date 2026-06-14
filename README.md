@@ -12,7 +12,7 @@
         age: 23,
         Expertise: "front-End developer",
         skills: "Html, Css, Js, Tailwind, React, Ts Next.js sass bootstarp pwa",
-        location: "Kurdistan province, Saqqez city"
+        location:"Kurdistan province, Saqqez city"
     }
 };
   gitHub.push(profile);
