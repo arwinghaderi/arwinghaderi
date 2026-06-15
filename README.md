@@ -26,11 +26,12 @@
 
 | Project Name    | Project Category | Project Language                          | Project Link                                                        | Repository Link                                                   |
 |-----------------|------------------|------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
-| revayat-cinema        |        Store      | Next,React, TypeScript, Tailwind git | [revayat-cinema](https://revayat-cinema-front.ravi1.ir/)                    | [Private =>Freelancer]     |
+|   sandCat      |        Educational site      | Next,React, TypeScript, Tailwind git | [sandCat](https://sandcatapp.ir/)                    | [Private =>تمام وقت دورکاری]   شرکت نو اندیشان   |
+| revayat-cinema        |        Store      | Next,React, TypeScript, Tailwind git | [revayat-cinema](https://resistanceart.ir/)                    | [Private =>Freelancer]     |
 | eplanetbrokers        |        brokers      | Next,React, TypeScript, Tailwind git | [eplanetbrokers](https://eplanetbrokers.com/en-US)                    | [Private =>Freelancer]     |
 | morabiPlus       | crm            | Next,React, TypeScript, Tailwind  git | [morabiPlus](https://novingym.vercel.app/)                    | [Private =>Freelancer]     |
 | saghfinoo       | Store            | React, TypeScript, Tailwind / Axios, React Query | [saghfinoo](https://saghfinoo-five.vercel.app/)                    | [Repo-saghfinoo](https://github.com/arwinghaderi/Saghfinoo)      |
-| Portal       | Store            | Next,React, TypeScript, Tailwind / Axios, React Query | [Portal](https://revayat.ir/)                    | [Private =>Freelancer]      |
+| Portal       | Store            | Next,React, TypeScript, Tailwind / Axios, React Query | [Portal](https://revayatfath.ir/)                    | [Private =>Freelancer]      |
 | Todo-Advanc       | crm            | Next.js, TypeScript, Tailwind , React Query/hookForm/Zod | [Todo-Advanc ](https://todo-advanc.vercel.app)                    | [Repo-Todo-Advanc](https://github.com/arwinghaderi/Todo-Advanc)      |
 | Admin Panel Redux | Admin Panel     | React, Redux | [Admin Panel](https://admin-panel-beta-peach.vercel.app/users)    | [Repo-admin-panel](https://github.com/arwinghaderi/Admin-Panel)  |
 | Furniture       | Store            | HTML, CSS, JS  ,git                         | [Furniture](https://furniroo-store.vercel.app/)                    | [Repo-Furniture](https://github.com/arwinghaderi/Furniro)     |
