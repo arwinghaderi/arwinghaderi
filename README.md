@@ -1,7 +1,7 @@
 <h1 align="center">❤ Hi There! I'm Arwin Ghaderi ❤</h1>
  <br>
 
-## 📃&nbsp;AboutMe
+## 📃&nbsp;About Me
   ```javascript 
  const gitHub =[];
  const profile ={
