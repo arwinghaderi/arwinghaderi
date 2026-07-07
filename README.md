@@ -4,7 +4,7 @@
 ## 📃&nbsp;About Me
   ```javascript 
  const gitHub =[];
- const profile ={
+ const profile = {
     status: 202,  
     data:{ 
         name: "Arwin",
