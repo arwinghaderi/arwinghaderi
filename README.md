@@ -5,7 +5,7 @@
   ```javascript 
  const gitHub =[];
  const profile ={
-    status: 202,  
+    status:202,  
     data:{ 
         name: "Arwin",
         lastName: "Ghaderi",
