@@ -7,7 +7,7 @@
  const profile ={
     status:202,  
     data:{ 
-        name: "Arwin",
+        name:"Arwin",
         lastName: "Ghaderi",
         age: 23,
         Expertise: "front-End developer",
