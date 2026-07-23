@@ -9,7 +9,7 @@
     data:{ 
         name:"Arwin",
         lastName: "Ghaderi",
-        age: 23,
+        age:23,
         Expertise: "front-End developer",
         skills: "Html, Css, Js, Tailwind, React,Ts,Next.js sass bootstarp pwa",
         location:" Tehran "
