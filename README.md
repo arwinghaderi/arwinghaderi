@@ -8,14 +8,14 @@
     status:202,  
     data:{ 
         name:"Arwin",
-        lastName: "Ghaderi",
+        lastName:"Ghaderi",
         age:23,
         Expertise:"front-End developer",
         skills: "Html,Css, Js, Tailwind, React,Ts,Next.js sass bootstarp pwa",
         location:"Tehran"
     }
 };
-  gitHub.push(profile);
+ gitHub.push(profile);
 
 
 ```
